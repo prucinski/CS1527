@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PracticalRecursion", "PracticalRecursion.pyproj", "{605299F3-7E0C-4AC9-8C58-D49D3329E288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605299F3-7E0C-4AC9-8C58-D49D3329E288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605299F3-7E0C-4AC9-8C58-D49D3329E288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41ACF7CE-F0E4-4CE2-9896-82BC1D87E2C4}
+	EndGlobalSection
+EndGlobal
